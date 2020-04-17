@@ -1,0 +1,4 @@
+#Fri Apr 17 22:13:25 SGT 2020
+base.0=C\:\\Users\\ASUS\\AndroidStudioProjects\\konveksi_uang\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
